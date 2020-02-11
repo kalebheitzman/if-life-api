@@ -1,0 +1,27 @@
+{
+  "name": "@socata/if-live-api",
+  "version": "0.0.1",
+  "description": "Infinite Flight Live API Utility Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalebheitzman/if-life-api.git"
+  },
+  "keywords": [
+    "infinite",
+    "flight",
+    "api"
+  ],
+  "author": "Kaleb Heitzman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalebheitzman/if-life-api/issues"
+  },
+  "homepage": "https://github.com/kalebheitzman/if-life-api#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
